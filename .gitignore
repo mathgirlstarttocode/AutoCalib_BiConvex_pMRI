@@ -1,0 +1,32 @@
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# macOS resource-fork folders sometimes created by zip/unzip
+__MACOSX/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MATLAB temporary/backup files
+*.asv
+*.m~
+*.mat~
+*.fig~
+*.autosave
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Temporary folders
+tmp/
+scratch/
+temp/
+
+# Editor/project metadata
+.vscode/
+.idea/
